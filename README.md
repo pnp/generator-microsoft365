@@ -1,2 +1,3 @@
 # generator-microsoft365
-Booking namespace for possible future usage
+
+Booking npm package name for possible future usage
