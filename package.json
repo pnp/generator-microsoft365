@@ -1,0 +1,25 @@
+{
+    "name": "generator-microsoft365",
+    "version": "0.0.1",
+    "description": "Yeoman Generator for Microsoft 365.",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/pnp/generator-microsoft365.git"
+    },
+    "author": {
+      "name": "Vesa Juvonen",
+      "email": "vesa.juvonen@hotmail.com"
+    },
+    "maintainers": [{
+        "name": "Vesa Juvonen",
+        "email": "vesa.juvonen@hotmail.com"
+      }],
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/pnp/generator-microsoft365/issues"
+    },
+    "homepage": "https://github.com/pnp/generator-microsoft365#readme",
+    "dependencies": {
+      "yeoman-generator": "^1.1.1"
+    }
+  }
